@@ -1,0 +1,2 @@
+D:/task_1/build/CMakeFiles/RUN_TESTS.dir
+D:/task_1/build/CMakeFiles/ZERO_CHECK.dir
